@@ -1,20 +1,3 @@
-#EXTM3U
-#EXTINF:0 group-title="(AR) Arabia",*** IPTV48 ***
-https://IPTV48.ml
-#EXTINF:0 group-title="(AR) Arabia",https://IPTV48.ml
-https://IPTV48.ml
-#EXTINF:0 group-title="(AR) Arabia",*** Playlists ***
-https://IPTV48.ml
-#EXTINF:0 group-title="(AR) Arabia",https://IPTV48.ml
-https://IPTV48.ml
-#EXTINF:0 group-title="(AR) Arabia",AL ANBAR | SD (AR)
-http://185.212.111.5:80/live/RPsyVH9Zc9/7ssMnYc0oK/3645.ts
-#EXTINF:0 group-title="(AR) Arabia",AL IRAQIA SPORT | SD (AR)
-http://185.212.111.5:80/live/RPsyVH9Zc9/7ssMnYc0oK/3924.ts
-#EXTINF:0 group-title="(AR) Arabia",BAHRAIN SPORTS 1 | HD (AR)
-http://185.212.111.5:80/live/RPsyVH9Zc9/7ssMnYc0oK/3596.ts
-#EXTINF:0 group-title="(AR) Arabia",BAHRAIN SPORTS 2 | HD (AR)
-http://185.212.111.5:80/live/RPsyVH9Zc9/7ssMnYc0oK/3597.ts
 #EXTINF:0 group-title="(AR) Arabia",BEIN SPORT 1 | HD (AR)
 http://allgames.onlygames.co:43666/live/fadil1/fadil22/642.ts
 #EXTINF:0 group-title="(AR) Arabia",BEIN SPORT 12 | HD (AR)
@@ -79,31 +62,6 @@ http://185.212.111.5:80/live/RPsyVH9Zc9/7ssMnYc0oK/28565.ts
 http://185.212.111.5:80/live/RPsyVH9Zc9/7ssMnYc0oK/28564.ts
 #EXTINF:0 group-title="(AR) Arabia",BN SPORTS HD9 | HD (AR)
 http://185.212.111.5:80/live/RPsyVH9Zc9/7ssMnYc0oK/28562.ts
-#EXTINF:0 group-title="(AR) Arabia",DMC SPORTS | SD (AR)
-http://185.212.111.5:80/live/RPsyVH9Zc9/7ssMnYc0oK/2964.ts
-#EXTINF:0 group-title="(AR) Arabia",JORDAN SPORT | SD (AR)
-http://185.212.111.5:80/live/RPsyVH9Zc9/7ssMnYc0oK/1225.ts
-#EXTINF:0 group-title="(AR) Arabia",KTV SPORT | HD (AR)
-http://185.212.111.5:80/live/RPsyVH9Zc9/7ssMnYc0oK/3606.ts
-#EXTINF:0 group-title="(AR) Arabia",KTV SPORT | SD (AR)
-http://185.212.111.5:80/live/RPsyVH9Zc9/7ssMnYc0oK/1291.ts
-#EXTINF:0 group-title="(AR) Arabia",MODERN SPORT | SD (AR)
-http://185.212.111.5:80/live/RPsyVH9Zc9/7ssMnYc0oK/1245.ts
-#EXTINF:0 group-title="(AR) Arabia",NEELAIN SPORT | SD (AR)
-http://185.212.111.5:80/live/RPsyVH9Zc9/7ssMnYc0oK/4027.ts
-#EXTINF:0 group-title="(AR) Arabia",NILE SPORT | SD (AR)
-http://185.212.111.5:80/live/RPsyVH9Zc9/7ssMnYc0oK/1073.ts
-#EXTINF:0 group-title="(AR) Arabia",ON TV SPORT | HD (AR)
-http://185.212.111.5:80/live/RPsyVH9Zc9/7ssMnYc0oK/3927.ts
-#EXTINF:0 group-title="(AR) Arabia",PALESTINE SPORT | SD (AR)
-http://185.212.111.5:80/live/RPsyVH9Zc9/7ssMnYc0oK/2139.ts
-#EXTINF:0 group-title="(AR) Arabia",SPORT 1 | HD (AR)
-http://185.212.111.5:80/live/RPsyVH9Zc9/7ssMnYc0oK/1250.ts
-#EXTINF:0 group-title="(AR) Arabia",SUDAN SPORT | HD (AR)
-http://185.212.111.5:80/live/RPsyVH9Zc9/7ssMnYc0oK/32834.ts
-#EXTINF:0 group-title="(AR) Arabia",SUDAN SPORT | SD (AR)
-http://185.212.111.5:80/live/RPsyVH9Zc9/7ssMnYc0oK/11964.ts
-
 #EXTINF:0 group-title="(_) _",BEIN SPORT 2 VERY FAST | SD (_)
 http://145.239.245.159:25461/live/admin_016607/iGJFpqPD/1739.ts
 #EXTINF:0 group-title="(_) _",BEIN SPORT ESPANOL | SD (_)
@@ -156,20 +114,6 @@ http://145.239.245.159:25461/live/admin_016607/iGJFpqPD/1745.ts
 http://145.239.245.159:25461/live/admin_016607/iGJFpqPD/1746.ts
 #EXTINF:0 group-title="(_) _",BEINN SPORTS 3 VERY FAST | SD (_)
 http://145.239.245.159:25461/live/admin_016607/iGJFpqPD/1740.ts
-
-#EXTINF:0 group-title="(_) _",VIP | HD (_)
-http://54.36.160.2:8080/live/paz1/paz1/95978.ts
-#EXTINF:0 group-title="(_) _",VIP | HD (_)
-http://54.36.160.2:8080/live/paz1/paz1/95984.ts
-#EXTINF:0 group-title="(_) _",VIP | HD (_)
-http://54.36.160.2:8080/live/paz1/paz1/95987.ts
-#EXTINF:0 group-title="(_) _",VIP | HD (_)
-http://54.36.160.2:8080/live/paz1/paz1/95988.ts
-#EXTINF:0 group-title="(_) _",VIP | HD (_)
-http://54.36.160.2:8080/live/paz1/paz1/95989.ts
-#EXTINF:0 group-title="(_) _",VIP | HD (_)
-http://54.36.160.2:8080/live/paz1/paz1/95990.ts
-#EXTINF:0 group-title="(_) _",VIP | HD (_)
 http://54.36.160.2:8080/live/paz1/paz1/95991.ts
 #EXTINF:-1,[AR] BEIN SPORTS 11 HD
 http://145.239.1.103:8000/live/Dogan4/Dogan4/831.ts
